@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Bakir Mohammed</h1>
 <h3 align="center">AI & ML Engineer specializing in Machine Learning, Generative AI, Agentic AI, and intelligent software solutions</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*KnV1cBSw-kWyh7Y6XEEzrA.jpeg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bakirmohammed1234&label=Profile%20views&color=0e75b6&style=flat" alt="bakirmohammed1234" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="AI Engineering" width="400"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bakirmohammed1234&label=Profile%20views&color=0e75b6&style=flat"
+  alt="bakirmohammed1234" />
+</p>
+
 
 - 🤖 AI & ML Engineer with experience in **Machine Learning, Generative AI, LLMs, RAG, AI Agents, and Agentic AI**
 
