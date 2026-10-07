@@ -18,7 +18,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 MSc in **Advanced Machine Learning and Multimedia Intelligence**
 
-- 📫 How to reach me **bakirmohammed018@gmail.com**
+- 📫 How to reach me **bakirmohammed20@gmail.com**
 
 
 
