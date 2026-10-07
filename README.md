@@ -1,198 +1,29 @@
-```html
+base in my actuel profile please refctor this  
 <h1 align="center">Hi 👋, I'm Bakir Mohammed</h1>
+<h3 align="center">A passionate data scientist,data engineer,machine learning engineer, front-end and back-end developer from Morocco</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*KnV1cBSw-kWyh7Y6XEEzrA.jpeg">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bakirmohammed1234&label=Profile%20views&color=0e75b6&style=flat" alt="bakirmohammed1234" /> </p>
 
-<h3 align="center">
-AI & ML Engineer | Generative AI & Agentic AI | Software Engineering | Supply Chain AI
-</h3>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p align="center">
-Building intelligent, production-ready AI solutions with Machine Learning, LLMs, AI Agents, and modern backend architectures.
-</p>
+- 🌱 Master's Student in  ** Avanced Machine Learning And Multimedia Intelligence**
 
-<img align="right" alt="AI Engineering" width="380"
-src="https://miro.medium.com/v2/resize:fit:1400/1*KnV1cBSw-kWyh7Y6XEEzrA.jpeg">
+- 📫 How to reach me **bakirmohammed018@gmail.com**
 
+
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bakirmohammed1234&label=Profile%20views&color=0e75b6&style=flat"
-  alt="bakirmohammed1234" />
+<a href="https://linkedin.com/in/mohammed-bakir-62545a264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-bakir-62545a264" height="30" width="40" /></a>
+<a href="https://instagram.com/bakir_mohammed27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bakir_mohammed27" height="30" width="40" /></a>
 </p>
 
-### 👨‍💻 About Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="[[https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6xTfQ9ktseD2j6KXz7MM5AM6S_rz5IDFuyw&s)" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-- 🤖 AI & ML Engineer with experience in **Machine Learning, Generative AI, LLMs, RAG, and AI Agents**
-- 🧠 Building **Agentic AI systems, multi-agent workflows, and intelligent decision-support solutions**
-- 🏭 Experience applying AI to **Supply Chain and Procurement**
-- 💻 Experienced in developing **production-ready AI services, REST APIs, and microservices**
-- 🚀 Worked on AI solutions integrated into enterprise platforms using **FastAPI, Spring Boot, Docker, Kafka, and microservices**
-- 🔬 Interested in **Agentic AI, LLM applications, AI automation, MLOps, and intelligent software systems**
-- 🎓 MSc in **Advanced Machine Learning and Multimedia Intelligence**
-- 📫 Reach me at **bakirmohammed018@gmail.com**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakirmohammed1234&show_icons=true&locale=en&layout=compact" alt="bakirmohammed1234" /></p>
 
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bakirmohammed1234&show_icons=true&locale=en" alt="bakirmohammed1234" /></p>
 
-<h3 align="left">🤝 Connect with me</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/mohammed-bakir-62545a264" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-alt="LinkedIn"
-height="30"
-width="40" />
-</a>
-
-<a href="https://instagram.com/bakir_mohammed27" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-alt="Instagram"
-height="30"
-width="40" />
-</a>
-</p>
-
----
-
-<h3 align="left">🧠 AI / Machine Learning</h3>
-
-<p align="left">
-
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-alt="Python" width="40" height="40"/>
-</a>
-
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
-alt="PyTorch" width="40" height="40"/>
-</a>
-
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-alt="TensorFlow" width="40" height="40"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-alt="Scikit-learn" width="40" height="40"/>
-</a>
-
-</p>
-
-**Machine Learning • Deep Learning • NLP • Recommendation Systems • LLMs • RAG • AI Agents • Agentic AI • Prompt Engineering • Embeddings • Fine-Tuning**
-
----
-
-<h3 align="left">⚙️ Backend & Software Engineering</h3>
-
-<p align="left">
-
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg"
-alt="FastAPI" width="40" height="40"/>
-</a>
-
-<a href="https://spring.io/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-alt="Spring Boot" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-alt="Java" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-alt="PostgreSQL" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-alt="MongoDB" width="40" height="40"/>
-</a>
-
-<a href="https://kafka.apache.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"
-alt="Kafka" width="40" height="40"/>
-</a>
-
-</p>
-
-**FastAPI • Spring Boot • REST APIs • Microservices • PostgreSQL • MongoDB • Kafka • SQL**
-
----
-
-<h3 align="left">🚀 MLOps & DevOps</h3>
-
-<p align="left">
-
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-alt="Docker" width="40" height="40"/>
-</a>
-
-<a href="https://kubernetes.io/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-alt="Kubernetes" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-alt="Git" width="40" height="40"/>
-</a>
-
-<a href="https://www.mlflow.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/mlflow/mlflow/master/assets/logo.svg"
-alt="MLflow" width="40" height="40"/>
-</a>
-
-</p>
-
-**Docker • Kubernetes • Git • GitLab CI/CD • GitHub Actions • MLflow • Prometheus • Grafana**
-
----
-
-<h3 align="left">🤖 Generative & Agentic AI</h3>
-
-<p>
-LLMs • RAG • LangChain • LangGraph • AI Agents • Multi-Agent Systems •
-Tool Calling • MCP • Embeddings • Vector Search • Prompt Engineering
-</p>
-
----
-
-<h3 align="left">🏭 Domain Experience</h3>
-
-<p>
-<strong>Supply Chain AI & Procurement</strong>
-</p>
-
-- Supplier evaluation and ranking
-- Intelligent supplier sourcing
-- AI-driven procurement decision support
-- Supplier discovery and enrichment
-- AI integration into enterprise supply chain platforms
-
----
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-<p>
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=bakirmohammed1234&show_icons=true&locale=en&layout=compact"
-alt="Most Used Languages" />
-</p>
-
-<p>
-&nbsp;
-<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=bakirmohammed1234&show_icons=true&locale=en"
-alt="GitHub Stats" />
-</p>
-
-<p>
-<img align="center"
-src="https://github-readme-streak-stats.herokuapp.com/?user=bakirmohammed1234"
-alt="GitHub Streak" />
-</p>
-```
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bakirmohammed1234&" alt="bakirmohammed1234" /></p>
