@@ -1,12 +1,17 @@
-base in my actuel profile please refctor this  
 <h1 align="center">Hi 👋, I'm Bakir Mohammed</h1>
-<h3 align="center">A passionate data scientist,data engineer,machine learning engineer, front-end and back-end developer from Morocco</h3>
+<h3 align="center">AI & ML Engineer specializing in Machine Learning, Generative AI, Agentic AI, and intelligent software solutions</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*KnV1cBSw-kWyh7Y6XEEzrA.jpeg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakirmohammed1234&label=Profile%20views&color=0e75b6&style=flat" alt="bakirmohammed1234" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 Master's Student in  ** Avanced Machine Learning And Multimedia Intelligence**
+- 🤖 AI & ML Engineer with experience in **Machine Learning, Generative AI, LLMs, RAG, AI Agents, and Agentic AI**
+
+- 🏭 Experienced in building intelligent solutions for **Supply Chain and Procurement**
+
+- 💻 Skilled in developing and deploying **AI services, REST APIs, backend systems, and microservices**
+
+- 🎓 MSc in **Advanced Machine Learning and Multimedia Intelligence**
 
 - 📫 How to reach me **bakirmohammed018@gmail.com**
 
